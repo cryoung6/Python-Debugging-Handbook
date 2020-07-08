@@ -1,4 +1,4 @@
-# Python-Debugging-Handbook
+# Python Debugging Handbook
 This guide provides an introduction to debugging. I've also included a reference chapter with an overview of Python. Feel free to copy and distirbute the content for any purpose. Feedback is welcome.
 
 If you find this material helpful, please leave a review on Amazon, and consider purchasing a copy of the ePub or print edition.
